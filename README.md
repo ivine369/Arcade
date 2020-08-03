@@ -30,7 +30,7 @@ A personal gallery application that you display your photos so that others can s
 
 ### Support and contact details
 
-If you run into any issues or have questions, ideas or concerns. Contact me via email denisnyamweya813@gmail.com
+If you run into any issues or have questions, ideas or concerns. Contact me via email ivinekemuma014@gmail.com
 
 ### License
 
