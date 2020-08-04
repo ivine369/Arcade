@@ -1,2 +1,2 @@
 
-web: gunicorn mygallery.wsgi --log-file -
+web: gunicorn art.wsgi --log-file -
