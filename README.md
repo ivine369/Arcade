@@ -23,8 +23,8 @@ A personal gallery application that you display your photos so that others can s
 
 ### Technologies Used
 
-* Python (Django)
-* CSS (Bootstrap)
+* Python 
+* CSS 
 * Javascript
 * Postgres (for database)
 
