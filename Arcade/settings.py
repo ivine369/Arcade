@@ -59,7 +59,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
-ROOT_URLCONF = 'heyapp.urls'
+ROOT_URLCONF = 'arcade.urls'
 
 TEMPLATES = [
     {

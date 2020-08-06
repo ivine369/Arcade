@@ -1,2 +1,2 @@
 
-web: gunicorn art.wsgi --log-file -
+web: gunicorn arcade.wsgi --log-file -
