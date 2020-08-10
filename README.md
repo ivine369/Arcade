@@ -33,6 +33,7 @@ It is personal gallery application that you display your photos so that others c
 If you run into any issues or have questions, ideas or concerns,
 Contact me via email ivinekemuma014@gmail.com
 
+
 ### License
 
 License
