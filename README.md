@@ -1,6 +1,6 @@
 ### ART
 
-It is personal gallery application that you display your photos so that others can see.
+It is personal gallery application that you display your photos so that others can see
 
 31st August 2020
 
